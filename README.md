@@ -2,8 +2,8 @@
 
 - Introduction to ML
 - Naive Bayes
-- Linear Algebra Review
-- Probabitlity Review
+- Linear Algebra
+- Probabitlity
 - Linear Regression
 - Logistic Regression
 - Regularization
